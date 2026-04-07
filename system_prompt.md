@@ -69,3 +69,6 @@ Analyse the transcript and respond with a single JSON object. Do not include any
 - Flags should only be raised when there is clear evidence. Err on the side of fewer, higher-confidence flags.
 - Scores must reflect the full call, not isolated moments.
 - Output must be valid JSON. No markdown, no prose, no code fences.
+
+Note
+if the transcript is too shory or not of a agent communication then provide a 5 line summary
